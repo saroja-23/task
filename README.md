@@ -1,4 +1,22 @@
 # task
+<b> Getting Started </b>
+
+Prerequisites<br>
+Java 8 or later<br>
+Maven
+
+<b> Building and Running the Application </b> 
+
+Clone the repository:<br>
+git clone https://github.com/saroja-23/task.git
+
+<b>Navigate to the project directory:</b><br>
+cd task<br>
+
+<b>Build and run the application:</b><br>
+mvn spring-boot:run<br>
+
+The application will be accessible at http://localhost:8080.
 
 API Endpoints
 
